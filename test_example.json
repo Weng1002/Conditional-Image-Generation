@@ -1,0 +1,10 @@
+{
+    "0_main": {
+        "image_name": "0_main.png",
+        "text_prompt": "A red tree monster with a skull face and twisted branches."
+    },
+    "0_attack1": {
+        "image_name": "0_attack1.png",
+        "text_prompt": "A red tree monster with a skull face and twisted branches. The monster is attacking."
+    }
+}
